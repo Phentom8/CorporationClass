@@ -11,4 +11,8 @@ class LongestLengthSyntax {
         return temp
     }
 
+    fun newFunction() {
+
+    }
+
 }

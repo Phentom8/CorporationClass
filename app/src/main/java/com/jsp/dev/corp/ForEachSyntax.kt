@@ -18,4 +18,7 @@ class ForEachSyntax {
         }
         Log.d("Indexes",int1.toString() + " " + int2.toString())
     }
+    fun newFunction() {
+        
+    }
 }
